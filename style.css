@@ -1,0 +1,14 @@
+.trenner {
+  width: 100%;
+  height: 2px;
+  background: rgb(255, 255, 255);
+}
+
+.tel {
+  text-decoration: none;
+  color: #fff;
+}
+
+.tel:hover {
+  text-decoration: underline;
+}
